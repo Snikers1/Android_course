@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Message_sendler</string>
+    <string name="hint">Введите сообщение</string>
+    <string name="message">Введите сообщение, которое хотите отправить</string>
+    <string name="preview">Предпросмотр сообщения</string>
+    <string name="send_button">Отправить сообщение</string>
+    <string name="task">Введите сообщение, которое хотите отослать</string>
+</resources>

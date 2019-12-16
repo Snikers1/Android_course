@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Message_sendler</string>
+    <string name="task">Enter the message You want to send</string>
+    <string name="preview">Preview message</string>
+    <string name="message">Enter the message You want to send</string>
+    <string name="hint">Enter a message</string>
+    <string name="send_button">Send message</string>
+</resources>
