@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
         EditText user_text = (EditText)findViewById(R.id.create_message);
         String message = user_text.getText().toString();
         intent.putExtra(Intent.EXTRA_TEXT, message);
-        startActivity(intent);
+        Intent choser_intent = Intent.createChooser(intent, "Send message via ...");
+        startActivity(choser_intent);
     }
 }
