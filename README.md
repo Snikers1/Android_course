@@ -1,2 +1,2 @@
 # Android_course
-Homewokrs projects for Android course
+Homework projects for Android course
